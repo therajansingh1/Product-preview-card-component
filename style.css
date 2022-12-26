@@ -79,7 +79,7 @@ p {
     bottom: 100px;
 }
 
-.sub-price {
+.sr-only{
     position: absolute;
     bottom: 80px;
     right: 70px;
